@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5768907b50cb1504086f4aa40ab397c7
+timeCreated: 1431638050
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  - material: {fileID: 2100000, guid: 99ef91806edb23d45a43dfbc16b32acf, type: 2}
+  - arrowPrefab: {fileID: 5496546, guid: 296a1855a3b6aea4795e9403923e6f16, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
